@@ -11,7 +11,8 @@
 
 ## :date: Таблица переходов ДКA:
 
-<img width="163" height="276" alt="таблица" src="https://github.com/user-attachments/assets/3d994b98-f024-485a-b550-d8585322e5f9" />
+<img width="163" height="276" alt="image" src="https://github.com/user-attachments/assets/b1152bc8-e536-40b9-9da2-f0b6b2c2a713" />
+
 
 ## :pencil2: Диаграмма переходов ДКA:
 
