@@ -4,11 +4,10 @@
 между которыми располагается последовательность символов a,b, состоящая из
 повторяющихся групп символов: четное число (нуль не считаем четным) подряд
 идущих символов a, за которыми следует один символ b, или нечетное число подряд
-идущих символов a, за которыми следует два символа b (пример: ~~
-или ~abbaaaabaaabb~).
+идущих символов a, за которыми следует два символа b.
 
 Таблица переходов КА
-<img width="612" height="1064" alt="таблица" src="https://github.com/user-attachments/assets/3d994b98-f024-485a-b550-d8585322e5f9" />
+<img width="306" height="532" alt="таблица" src="https://github.com/user-attachments/assets/3d994b98-f024-485a-b550-d8585322e5f9" />
 
 Диаграмма переходов КA
-<img width="1792" height="1086" alt="граф" src="https://github.com/user-attachments/assets/bdfbb066-8e5f-47e0-bd3c-3f078c90b745" />
+<img width="896" height="543" alt="граф" src="https://github.com/user-attachments/assets/bdfbb066-8e5f-47e0-bd3c-3f078c90b745" />
