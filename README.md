@@ -7,7 +7,7 @@
 идущих символов a, за которыми следует два символа b.
 
 Таблица переходов КА
-<img width="306" height="532" alt="таблица" src="https://github.com/user-attachments/assets/3d994b98-f024-485a-b550-d8585322e5f9" />
+<img width="153" height="266" alt="таблица" src="https://github.com/user-attachments/assets/3d994b98-f024-485a-b550-d8585322e5f9" />
 
 Диаграмма переходов КA
-<img width="896" height="543" alt="граф" src="https://github.com/user-attachments/assets/bdfbb066-8e5f-47e0-bd3c-3f078c90b745" />
+<img width="448" height="271" alt="граф" src="https://github.com/user-attachments/assets/bdfbb066-8e5f-47e0-bd3c-3f078c90b745" />
