@@ -1,0 +1,23 @@
+{
+  "name": "finalmachine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "FinalMachine.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElizMalina/FinalMachine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElizMalina/FinalMachine/issues"
+  },
+  "homepage": "https://github.com/ElizMalina/FinalMachine#readme"
+}
