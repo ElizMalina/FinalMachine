@@ -1,4 +1,4 @@
-const { processInput } = require('./FinalMachine');
+const { processInput } = require('../src/FinalMachine');
 
 describe('Тестирование', () =>{
   test('Пустая цепочка', () =>{
